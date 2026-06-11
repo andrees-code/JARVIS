@@ -1,0 +1,16 @@
+openai-whisper
+ollama
+pyttsx3
+sounddevice
+numpy
+pvporcupine
+playwright
+pychromecast
+google-api-python-client
+google-auth-oauthlib
+chromadb
+sentence-transformers
+customtkinter
+pynput
+caldav
+python-dateutil
